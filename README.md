@@ -10,7 +10,7 @@ Instead of manually searching through long PDF documents, users can upload a PDF
 
 ## Application Preview
 
-![PDF Analyzer by LAUVRE](assets/pdf-analyzer-demo.png)
+![PDF Analyzer by LAUVRE](assets/pdf-analyzer-demo.png.jpeg)
 
 ## Features
 
