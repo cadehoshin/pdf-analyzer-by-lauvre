@@ -8,6 +8,10 @@ PDF Analyzer by LAUVRE is a local AI application built to explore how Large Lang
 
 Instead of manually searching through long PDF documents, users can upload a PDF and ask questions in natural language.
 
+## Application Preview
+
+![PDF Analyzer by LAUVRE](assets/pdf-analyzer-demo.png)
+
 ## Features
 
 - **PDF text extraction** — Extracts text from PDF documents.
